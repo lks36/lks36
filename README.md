@@ -1,7 +1,5 @@
 # Hello, je suis Kun Li !
 
-### À propos de moi
-
 Je suis un **Étudiant de L3 en Informatique** à **Sorbonne Université**. Passionné par la conception logicielle, j'adore créer des projets et apprendre de nouvelles choses tous les jours.
 
 
