@@ -1,6 +1,6 @@
-# Hello, je suis Kun Li !
+# Hello, ici Lks
 
-Je suis un **Étudiant de L3 en Informatique** à **Sorbonne Université**. Passionné par la conception logicielle, j'adore créer des projets et apprendre de nouvelles choses tous les jours.
+Je suis un **Étudiant en Informatique** à **Sorbonne Université**. J'update des projets de temps en temps
 
 
 <p align="center">
@@ -24,8 +24,9 @@ Je suis un **Étudiant de L3 en Informatique** à **Sorbonne Université**. Pass
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </p>
 
