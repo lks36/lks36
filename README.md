@@ -1,6 +1,6 @@
 # Hello, ici Lks
 
-Je suis un **Étudiant**. J'update des projets de temps en temps
+**MSc Computer Science @ Sorbonne University, Paris**
 
 
 <p align="center">
